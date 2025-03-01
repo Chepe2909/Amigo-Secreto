@@ -18,7 +18,7 @@ Función para Agregar Amigos
 
 Función para Mostrar la Lista de Amigos en el HTML
 Limpia la lista visualmente antes de actualizarla.
-Crea un elemento li por cada amigo y lo agrega a la lista en pantalla.
+Crea un elemento (<li>) por cada amigo y lo agrega a la lista en pantalla.
 
 Función para Sortear un Amigo al Azar
 Verifica que haya amigos en la lista.
