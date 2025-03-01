@@ -33,3 +33,9 @@ Limpia el resultado del sorteo.
 Este código es un ejemplo sencillo pero funcional. Permite agregar, visualizar, sortear y reiniciar nombres de una lista de
 amigos de manera dinámica y fácil de usar.
 
+
+
+https://github.com/user-attachments/assets/ec2e6b49-8351-4de9-8499-e9f2bd245a25
+
+
+
